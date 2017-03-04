@@ -23,3 +23,12 @@ for row in rows:
   file_object.write("<br />")
 file_object.write("</p></body></html>")
 file_object.close()
+
+#=========================the words I like=====================================
+# rabbitfish
+# raffia
+# ragee
+# rakehell
+# radices
+# 上次搜到的单词是 start reactant n.反应物
+#==============================================================================
